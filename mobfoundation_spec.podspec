@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name                = "mobfoundation_spec"
-s.version             = "3.2.16.1"
+s.version             = "0.0.1"
 s.summary             = 'mob.com的公共库'
 s.license             = 'Copyright © 2012-2018 mob.com'
 s.author              = { "Jinghuang Liu" => "liujinghuang@icloud.com" }
